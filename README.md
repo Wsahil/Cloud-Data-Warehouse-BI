@@ -16,17 +16,17 @@ Within dbt, raw data underwent transformative processes, introducing necessary c
 
 Lineages for our defined business processes -
 
-![image](https://github.com/Wsahil/Cloud-Data-Warehouse-BI/images/fact_assigned_instructor.png)
-![image](https://github.com/Wsahil/Cloud-Data-Warehouse-BI/images/fact_course_evaluation.png)  
-![image](https://github.com/Wsahil/Cloud-Data-Warehouse-BI/images/fact_student_grade.png)
+![image](https://github.com/Wsahil/Cloud-Data-Warehouse-BI/assets/71370836/614ce538-5784-4b38-a26d-ee74773e8dd3)
+![image](https://github.com/Wsahil/Cloud-Data-Warehouse-BI/assets/71370836/b8dab1a7-12c7-41ff-b9e6-6d8fb8ed3e5f)
+![image](https://github.com/Wsahil/Cloud-Data-Warehouse-BI/assets/71370836/73ce61f1-3187-4d0a-b3f3-25bbc572ee93)
 
 ## Visualization and Analysis (Power BI)
 
 The synergy between dbt and Power BI marked the visualization and analysis phase. The integration allowed us to translate meticulously prepared data into insightful visualizations. For instance, bar graphs on course demographics page provided insights into total course ratings and average ratings of the courses, and lecture sessions. Student performance analysis delved into subject-wise grades and overall academic GPA, linked to individual student IDs. Notably, personalized visualizations for each student illustrated their chosen courses, corresponding GPAs, and course schedules. This individualized perspective not only aids in monitoring academic progress but also enables the design of targeted support and intervention strategies based on each student's unique journey. Such dashboard would be very effective for college academic counselors who can see all the details about student just by selecting student name or ID.
 
-![image](https://github.com/Wsahil/Cloud-Data-Warehouse-BI/images/Course%20Demo.png)
-![image](https://github.com/Wsahil/Cloud-Data-Warehouse-BI/imagesStudent%20Demo.png)  
-![image](https://github.com/Wsahil/Cloud-Data-Warehouse-BI/imagesDepartment%20Details.png)
+![image](https://github.com/Wsahil/Cloud-Data-Warehouse-BI/assets/71370836/05e5daea-1f37-4b96-a377-89d7870e4b16)
+![image](https://github.com/Wsahil/Cloud-Data-Warehouse-BI/assets/71370836/71a91ab9-1c7b-4c76-ab21-56115be9a421)
+![image](https://github.com/Wsahil/Cloud-Data-Warehouse-BI/assets/71370836/3457fc3f-decd-45eb-8e34-7713a7672ea5)
 
 ## Contributors
 
